@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 081111fd1834f42469e07a9a2ce295c6
+timeCreated: 1529755501
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121480
+  packageName: RPG Hero PBR HP Polyart
+  packageVersion: 1.1
+  assetPath: Assets/RPGHero/Animator/SwordAndShield.controller
+  uploadId: 295833

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2890c9060ce4f6b45b4082d87f47b27e
+timeCreated: 1535020794
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127652
+  packageName: Battle Wizard PBR
+  packageVersion: 1.2
+  assetPath: Assets/WizardPBR/Animations/WizardAnimControl.controller
+  uploadId: 459288

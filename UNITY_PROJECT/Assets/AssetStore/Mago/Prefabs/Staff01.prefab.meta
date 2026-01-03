@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 656f2cec400da5443a55dfe70298c2f1
+timeCreated: 1535948303
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127652
+  packageName: Battle Wizard PBR
+  packageVersion: 1.2
+  assetPath: Assets/WizardPBR/Prefabs/Staff01.prefab
+  uploadId: 459288

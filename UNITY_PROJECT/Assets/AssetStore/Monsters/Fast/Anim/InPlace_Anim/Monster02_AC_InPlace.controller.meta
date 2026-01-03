@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f4f9a75443caff94e9405676c8ee2ce0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329877
+  packageName: Fantasy Monster 3D Model 02 - Game Ready - PixeliusVita
+  packageVersion: 1.0
+  assetPath: Assets/Stylized3DMonster/Monster02/Anim/InPlace_Anim/Monster02_AC_InPlace.controller
+  uploadId: 803670

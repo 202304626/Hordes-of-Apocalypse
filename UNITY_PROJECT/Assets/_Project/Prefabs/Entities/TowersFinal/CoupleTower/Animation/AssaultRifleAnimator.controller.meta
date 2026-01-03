@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f995ccec4eb03694d8b4fd525e26bccc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185080
+  packageName: Battle Royale Duo Polyart PBR
+  packageVersion: 1.1
+  assetPath: Assets/BattleRoyaleDuoPAPBR/Animator/AssaultRifleAnimator.controller
+  uploadId: 419573
