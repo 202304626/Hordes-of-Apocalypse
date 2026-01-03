@@ -3,7 +3,7 @@
 **Proyecto Final - Paradigmas y Técnicas de Programación**
 **Ingeniería Matemática e Inteligencia Artificial**
 
-Este repositorio contiene el código fuente y los recursos de "Hordes of Apocalypse", un videojuego de estrategia Tower Defense desarrollado en Unity. El proyecto destaca por la implementación de una Inteligencia Artificial adversaria que aprende del comportamiento del jugador para ajustar la dificultad dinámicamente.
+Este repositorio contiene el código fuente y los recursos de "Hordes of Apocalypse", un videojuego de estrategia Tower Defense desarrollado en Unity. El proyecto destaca por la implementación de una Inteligencia Artificial adversaria que funciona a través de heurísticas y aprende del comportamiento del jugador para ajustar la dificultad dinámicamente, tratando de dificultar al máximo al jugador para que este no consiga la victoria. 
 
 ## 📄 Descripción del Proyecto
 
